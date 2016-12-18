@@ -2,7 +2,10 @@
 public class ArrayList {
 	 ArrayList<String> Rectangle = new ArrayList<String>();
 
-	  //elements added to array list*/
+	  
+	 
+	 
+	 //elements added to array list*/
 	  Rectangle.add("Ajeet");
 	  Rectangle.add("Harry");
 	  Rectangle.add("Chaitanya");

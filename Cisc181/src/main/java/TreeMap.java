@@ -1,7 +1,9 @@
 
 public class TreeMap {
 	 public static void main(String args[]) {
-	      // Create a hash map
+	  
+		 
+		 // Create a hash map
 	      TreeMap Rectangle = new TreeMap();
 	      
 	      // Put elements to the map

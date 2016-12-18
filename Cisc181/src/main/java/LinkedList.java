@@ -2,7 +2,8 @@
 public class Rectangle {
 
     /* Linked List Declaration */
-    Rectangle<String> Rectangle = new Rectangle<String>();
+  
+	Rectangle<String> Rectangle = new Rectangle<String>();
 
     /*add(String Element) is used for adding 
      * the elements to the linked list*/

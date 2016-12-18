@@ -3,6 +3,9 @@ import java.util.HashSet;
 
 public class HashSet {
 
+	
+	
+	
 	   public static void main(String args[]) {
 		   HashSet Rectangle = new HashSet();
 		    Rectangle.add( new Integer( 6 ) );

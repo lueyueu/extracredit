@@ -3,6 +3,8 @@ public class HashMap {
 	Map<String, Integer> Rectangle = new TreeMap<String, Integer>();
 	
 	
+	
+	
 	// Put elements to the map
 	Rectangle.put("A", new Double(21.25));
 	Rectangle.put("B", new Double(22.34));
